@@ -12,5 +12,6 @@
 </head>
 <body>
   test
+  <h2>${text}</h2>
 </body>
 </html>
